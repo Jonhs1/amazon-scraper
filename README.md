@@ -50,13 +50,13 @@ O servidor estará rodando em: `http://localhost:3000`
 ### 4️⃣ Configure o Frontend
 ```bash
 cd ../frontend
-bun create vite .
-bun install
+npm create vite .
+npm install
 ```
 
 ### 5️⃣ Rode o Frontend (Vite)
 ```bash
-bun run dev
+npm run dev
 ```
 
 Abra no navegador: `http://localhost:5173`
